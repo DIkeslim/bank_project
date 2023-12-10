@@ -1,0 +1,71 @@
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 2: Extraction completed
+Task 3: Transforming the dataframe
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 2: Extraction completed
+Task 3: Transforming the dataframe
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 2: Extraction completed
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 2: Extraction completed
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 2: Extraction completed
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 2: Extraction completed
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 2: Extraction completed
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 2: Extraction completed
+Task 3: Transforming the dataframe
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 2: Extraction completed
+Task 3: Transforming the dataframe
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 2: Extraction completed
+Task 3: Transforming the dataframe
+Error: 'MC_USD_Billion' column not found in the DataFrame
+Task 4: Loading to CSV
+Task 4: CSV loading completed
+Task 5: Loading to SQL database
+Task 5: Database loading completed
+Task 6: Running queries on the database
+Task 6: Queries executed
+Task 7: Verifying log entries
+Task 7: Log verification completed
+Task 1: Start of the script
+Task 2: Extracting tabular information
+Task 2: Extraction completed
+Task 3: Transforming the dataframe
+Error: 'MC_USD_Billion' column not found in the DataFrame
+Task 4: Loading to CSV
+Task 4: CSV loading completed
+Task 5: Loading to SQL database
+Task 5: Database loading completed
+Task 6: Running queries on the database
+Task 6: Queries executed
+Task 7: Verifying log entries
+Task 7: Log verification completed
